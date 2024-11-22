@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'PokemonFont';
+    src: url('./assets/Pokemon Solid.ttf') format('truetype');
+  }
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Espaço entre texto e imagem */
+}
+
+  .header h1 {
+    font-size: 7rem;
+    font-weight: bold;
+    font-family: 'Pokemon Solid', sans-serif;
+  }
+
+
+
+  .poke {
+    color: #ff0000; 
+    text-shadow: 
+      3px 3px 0 #3b4cca,   
+      -3px -3px 0 #3b4cca,
+      5px 5px 5px #2c2929,
+      -5px -5px 5px #2c2929, 
+      0px 0px 10px #3b4cca, 
+      0px 0px 15px rgba(0, 0, 0, 0.5); 
+  }
+  
+  .gpt {
+    color: #ffde00; 
+    text-shadow: 
+      3px 3px 0 #3b4cca,   
+      -3px -3px 0 #3b4cca, 
+      5px 5px 5px #2c2929, 
+      -5px -5px 5px #2c2929, 
+      0px 0px 10px #3b4cca, 
+      0px 0px 15px rgba(0, 0, 0, 0.5); 
+  }
+  
+  /*.poke {
+    color: #ffde00; 
+    text-shadow: 
+      3px 3px 0 #3b4cca,   
+      -3px -3px 0 #3b4cca,
+      5px 5px 5px #2c2929,
+      -5px -5px 5px #2c2929, 
+      0px 0px 10px #3b4cca, 
+      0px 0px 15px rgba(0, 0, 0, 0.5); 
+  }
+  
+  .gpt {
+    color: #3b4cca; 
+    text-shadow: 
+      3px 3px 0 #ffde00,   
+      -3px -3px 0 #ffde00, 
+      5px 5px 5px #2c2929, 
+      -5px -5px 5px #2c2929, 
+      0px 0px 10px #ffde00, 
+      0px 0px 15px rgba(0, 0, 0, 0.5); 
+  } */
