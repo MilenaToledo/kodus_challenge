@@ -1,5 +1,5 @@
 
-<h1 align="center"> PokeGPT 💫 - A Kodus Challenge </h1>
+<h1 align="center"> PokeGPT 💫 - A Kodus Internship Challenge </h1>
 
 # Index
 * [Project Description 📌](#project-description-📌)
